@@ -11,3 +11,5 @@ Customization:
 Explore the code, customize it, and make it your own. Add new features, experiment with different styles, or integrate additional functionalities. Let your creativity flow!
 I want to extend a special thanks to the open-source community and the incredible resources available. The project also incorporates icons from FontAwesome. 🙌
 Thank you for checking out my Spotify Clone project! I'm eager to hear your feedback and suggestions. Let's keep the music playing and the creativity flowing! 🎉
+
+creted by Deepak.
